@@ -2,8 +2,8 @@
 
 This repository contains basic Python programs created while learning and practicing Python fundamentals.
 It covers core concepts that are essential for moving into Data Science.
-🧠 Topics Covered
 
+🧠 Topics Covered
 Variables, Numbers, Strings
 
 Lists, Dictionaries, Sets, Tuples
@@ -15,6 +15,7 @@ Functions
 File Handling (Read & Write Files)
 
 Classes & Objects (OOP Basics)
+
 
 📂 Purpose of This Repository
 
