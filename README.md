@@ -4,6 +4,7 @@ This repository contains basic Python programs created while learning and practi
 It covers core concepts that are essential for moving into Data Science.
 
 🧠 Topics Covered
+
 Variables, Numbers, Strings
 
 Lists, Dictionaries, Sets, Tuples
@@ -31,10 +32,13 @@ Track learning progress on GitHub
 📌 Note
 
 These files are written for learning and practice purposes.
+
 Code quality and structure will improve as learning progresses.
 
 👤 Author
 
 Jawad Ali
+
 Bachelor of Engineering (Software Engineering)
+
 Aspiring Data Scientist
